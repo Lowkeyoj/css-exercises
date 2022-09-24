@@ -15,7 +15,7 @@ body {
 
 .title {
   background: #e3f4ff;
-  margin-top: 8px;
+  margin-top: 0px;
   margin-bottom: 0%;
 }
 
@@ -32,8 +32,10 @@ body {
 }
 
 button {
-  display: block;
+  height: 35px;
+  width: 120px;
+  display: block ;
   background: white;
   border: 1px solid #eee;
-  margin-left: 38%;
+  margin-left: 34%;
 }
